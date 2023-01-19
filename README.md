@@ -3,18 +3,14 @@
 ## Table of content
 
 - [Description](#description)
-- [How to Run the Application](#howtorun)
+- [How to Run the Application](#about)
 - [License](#license)
 - [Demo](#demo)
 
 ## Description
 This project contains source code in the <b>application</b> directory which generates Swagger documentation for the Restaurants application API.    
 
-<img src="./images/BigBang.png">
-
-## Setting Up and Running The Application
-
-### About
+## About
 The application (code found in application directory) is a Restaurant API that gets, pushes new and updates restaurant information stored in an array.   It uses Express and Swagger to generate the API documentation which can be accessed by downloading the code in the application directory and creating a node project along with installation of Express and Swagger.   The Swagger UI Documentation information is found in the swagger.json file.
 
 ## Demo
