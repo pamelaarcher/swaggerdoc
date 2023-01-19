@@ -13,10 +13,6 @@ This project contains source code in the <b>application</b> directory which gene
 ## About
 The application (code found in application directory) is a Restaurant API that gets, pushes new and updates restaurant information stored in an array.   It uses Express and Swagger to generate the API documentation which can be accessed by downloading the code in the application directory and creating a node project along with installation of Express and Swagger.   The Swagger UI Documentation information is found in the swagger.json file.
 
-## Demo
-
-* [Swagger Documentation Demo](https://pamelaarcher.github.io/swaggerdoc)
-
 ## License
 
 MIT License
